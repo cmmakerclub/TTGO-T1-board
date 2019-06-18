@@ -1,4 +1,4 @@
-# TTGO-
+# TTGO-T1
 
 TTGO T1
 ESP-32, 4 MB Flash, SD Card Slot, Li-Po Battery Charger
