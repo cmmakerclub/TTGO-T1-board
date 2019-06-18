@@ -6,7 +6,7 @@ module.exports = {
   author: "Maker Asia",
   website: "",
   email: "makerasia@gmail.com",
-  git: "https://github.com/cmmakerclub/TTGO-T1/",
+  git: "https://github.com/cmmakerclub/TTGO-T1-board/",
   image: "/static/display.jpg",
   version: "1.0.0",
 };
