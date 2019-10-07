@@ -1,6 +1,6 @@
 module.exports = {
   name: "ttgo-t1",
-  vendor: "LilyGO Xin Yuan Electronic Technology Co., Ltd",
+  vendor: "TTGO",
   platform: "arduino-esp32",
   title: "TTGO-T1 V1.3",
   description: "TTGO T1 ESP-32, 4 MB Flash, SD Card Slot, Li-Po Battery Charger เป็นบอร์ด ESP32 หน่วยความจำ 4 MB พร้อมช่องอ่าน SD Card และวงจรชาร์จแบตเตอรี่ (LiPo)",
